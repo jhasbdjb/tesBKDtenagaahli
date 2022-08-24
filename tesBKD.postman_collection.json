@@ -1,0 +1,40 @@
+{
+	"info": {
+		"_postman_id": "362d66b0-5208-4a49-b14a-e610edb9777e",
+		"name": "tesBKD",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "22971085"
+	},
+	"item": [
+		{
+			"name": "https://github.com/PosaniNitinkumar/LoginRequestPostman.git",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://github.com/PosaniNitinkumar/LoginRequestPostman.git?username=tesbkd&password=tes123%23%23",
+					"protocol": "https",
+					"host": [
+						"github",
+						"com"
+					],
+					"path": [
+						"PosaniNitinkumar",
+						"LoginRequestPostman.git"
+					],
+					"query": [
+						{
+							"key": "username",
+							"value": "tesbkd"
+						},
+						{
+							"key": "password",
+							"value": "tes123##"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
